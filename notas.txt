@@ -1,0 +1,1 @@
+// Evite usar cat para arquivos grandees
